@@ -2,7 +2,7 @@
 # Eczema Herpeticum (EH) classification model DEMO
 
 This repository contains [Streamlit](https://streamlit.io/) demo applications for the Eczema Herpeticum (EH) classification model. The implemented cnn model was pretrained to distinguish EH from non-EH skin conditions using clinical images.
-
+It only contains the best-trained CNN model for EH diagnosis. Full code for training may be available by contacting me: jiho.shin20@imperial.ac.uk and Professor Tanaka: r.tanaka@imperial.ac.uk
 ## Files
 
 ### `demo.py`
